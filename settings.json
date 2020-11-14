@@ -13,11 +13,13 @@
 		"defaults": {
 			// Put settings here that you want to apply to all profiles
 			"colorScheme": "Dracula",
+			"tabColor": "#232530",
 			"cursorShape": "vintage",
 			"cursorColor": "#69FF94",
 			"startingDirectory": "D:\\Dev",
 			"fontFace": "Hack",
-			"fontSize": 10
+			"fontSize": 10,
+			"closeOnExit": true
 		},
 		"list": [
 			{
@@ -47,10 +49,14 @@
 				"commandline": "\"%PROGRAMFILES%\\git\\bin\\bash.exe\" --login -i -l",
 				"hidden": false,
 				"icon": "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
-				"closeOnExit": true,
 				"tabTitle": "Git Bash",
-				"suppressApplicationTitle": true,
-				"tabColor": "#232530"
+				"suppressApplicationTitle": true
+			},
+			{
+				"guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+				"hidden": false,
+				"name": "Ubuntu",
+				"source": "Windows.Terminal.Wsl"
 			}
 		]
 	},
