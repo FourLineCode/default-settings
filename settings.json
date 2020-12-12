@@ -14,7 +14,7 @@
 			// Put settings here that you want to apply to all profiles
 			"colorScheme": "Dracula",
 			"tabColor": "#232530",
-			"cursorShape": "vintage",
+			"cursorShape": "filledBox",
 			"cursorColor": "#69FF94",
 			"startingDirectory": "D:\\dev",
 			"fontFace": "Hack",
