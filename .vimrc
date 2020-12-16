@@ -19,7 +19,6 @@ set incsearch
 set background=dark
 colorscheme delek
 set scrolloff=8
-set noshowmode
 set completeopt=menuone,noinsert,noselect
 set signcolumn=yes
 
