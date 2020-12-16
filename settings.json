@@ -5,8 +5,8 @@
 	"$schema": "https://aka.ms/terminal-profiles-schema",
 
 	"defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bd}",
-	"initialCols": 140,
-	"initialRows": 45,
+	"initialCols": 160,
+	"initialRows": 50,
 	"initialPosition": "220, 40",
 
 	"profiles": {
@@ -51,12 +51,6 @@
 				"icon": "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
 				"tabTitle": "Git Bash",
 				"suppressApplicationTitle": true
-			},
-			{
-				"guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
-				"hidden": false,
-				"name": "Ubuntu",
-				"source": "Windows.Terminal.Wsl"
 			}
 		]
 	},
