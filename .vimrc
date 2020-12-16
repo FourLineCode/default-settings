@@ -16,7 +16,8 @@ set smartcase
 set noswapfile
 set nobackup
 set incsearch
-set termguicolors
+set background=dark
+colorscheme delek
 set scrolloff=8
 set noshowmode
 set completeopt=menuone,noinsert,noselect
