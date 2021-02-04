@@ -14,10 +14,10 @@
 			// Put settings here that you want to apply to all profiles
 			"colorScheme": "Dracula",
 			"tabColor": "#232530",
-			"cursorShape": "bar",
-			"cursorColor": "#69FF94",
+			"cursorShape": "filledBox",
+			"cursorColor": "#808080",
 			"startingDirectory": "D:\\dev",
-			"fontFace": "Hack",
+			"fontFace": "MonoLisa",
 			"fontSize": 10,
 			"closeOnExit": true
 		},
