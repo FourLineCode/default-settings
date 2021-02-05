@@ -19,6 +19,7 @@
 			"startingDirectory": "D:\\dev",
 			"fontFace": "MonoLisa",
 			"fontSize": 10,
+			"bellStyle": "none",
 			"closeOnExit": true
 		},
 		"list": [
